@@ -5,7 +5,7 @@ Using hand-drawn assets inspired by events or influences important to the team, 
 to be an interactive representation of the trials that are experienced daily by members of the LGBTQIA+ community in day to 
 day life, while also trying to spread awareness of these issues. 
 
-Created over the period of 72 hours with the Unity game engine.
+Created over the period of 72 hours with the Unity game engine for the 2019 Gay(m) Jam organised by the University of Brighton.
 
 ## Getting Started: 
 
