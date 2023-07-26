@@ -9,7 +9,6 @@ Created over the period of 72 hours with the Unity game engine.
 
 ## Getting Started: 
 
-Simply download the game files, then run the GAYM-JAM-2.exe file to start the game. 
+Simply download the game files, then run the Gay(M) Jam.exe file to start the game. 
 
 Controls use WASD for directional input, press spacebar to jump.
-
